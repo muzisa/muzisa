@@ -1,0 +1,5 @@
+silabus rekayasa perangkat lunak kelas: 5
+-git dan  githup
+-framework bootstrap
+-framework  codegniter
+-DBMS MYSql
