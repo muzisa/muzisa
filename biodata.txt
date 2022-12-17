@@ -1,0 +1,4 @@
+nama; muzdalifah
+npm:20105111012
+kelas:5.1
+alamat: simpang tiga
